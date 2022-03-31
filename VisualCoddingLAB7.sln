@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualCoddingLAB7", "VisualCoddingLAB7\VisualCoddingLAB7.csproj", "{8AEC7996-50C6-4109-B653-6178ACBA3443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AEC7996-50C6-4109-B653-6178ACBA3443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEC7996-50C6-4109-B653-6178ACBA3443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEC7996-50C6-4109-B653-6178ACBA3443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEC7996-50C6-4109-B653-6178ACBA3443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CDD89C6-648F-4790-AB6D-74AA980581C0}
+	EndGlobalSection
+EndGlobal
